@@ -1,10 +1,13 @@
 ### NEXT LEVEL WEEK 05 - ReactJS 
 
-Podcastr
+Podcastr Application
 
-- SPA
 - NEXTJS
+- TypeScript
+- SCSS
+- SPA
 - SSR
 - SSG
 
-Código: #missaoespacial
+Código 01: #missaoespacial
+Código 02: #embuscadoproximonivel
