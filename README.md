@@ -21,7 +21,7 @@ Learning:
 - Path e Fallback
 - Player
 - RC-Slider (React)
-- <audio>
+- tag audio
 - Refs (React)
 - Play and Pause events
 
