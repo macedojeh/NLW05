@@ -2,12 +2,21 @@
 
 Podcastr Application
 
+Learning:
 - NEXTJS
 - TypeScript
 - SCSS
 - SPA
 - SSR
-- SSG
+- SSG - GetStaticProps, GetStaticPaths
+- ISR
+- Axios
+- Map()
+- Image (Next)
+- Slug (React)
+- Link (Next)
+- useRouter (hook)
 
 Código 01: #missaoespacial <br>
-Código 02: #embuscadoproximonivel
+Código 02: #embuscadoproximonivel <br>
+Código 03: #astronautas
