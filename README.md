@@ -16,7 +16,16 @@ Learning:
 - Slug (React)
 - Link (Next)
 - useRouter (hook)
+- useEffect (hook)
+- Context API
+- Path e Fallback
+- Player
+- RC-Slider (React)
+- <audio>
+- Refs (React)
+- Play and Pause events
 
 Código 01: #missaoespacial <br>
 Código 02: #embuscadoproximonivel <br>
 Código 03: #astronautas
+Código 04: #universoinfinito
