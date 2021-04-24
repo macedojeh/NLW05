@@ -25,7 +25,7 @@
   footer {
     align-self: stretch;
 
-    &.empty {
+    &.empty .progress {
       opacity: 0.5;
     }
   }
@@ -108,11 +108,21 @@
 
     &:disabled {
       cursor: default;
+      opacity: 0.5;
     }
 
     //se passar o mouse por cima de um botão que não está disabled
     &:hover:not(:disabled) {
       filter: brightness(0.7)
+    }
+
+    //está sendo feito assim pq o svg tá com a tag img, e não dá pra estilizar facilmente, só se estivesse usando uma outra forma de importar o svg
+    &.isActive {
+      filter: invert(0.35) sepia(1) saturate(3) hue-rotate(100deg);
+    }
+
+    &.isActive:hover {
+      filter: brightness(0.6) invert(0.35) sepia(1) saturate(3) hue-rotate(100deg);
     }
 
     &.playButton {
